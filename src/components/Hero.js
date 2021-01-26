@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tick } from '../../icons/';
+import { Tick } from '../icons/';
 import SignupForm from './SignupForm';
 
 const outcomes = [
